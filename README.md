@@ -1,7 +1,7 @@
 # vansh-packet-sniffer
 - To run this code you need a linux os with libpcap and openssl.
 - clone this file through terminal.
---> now run these command in series and if you encounter any error try to resolve that error
+- now run these command in series and if you encounter any error try to resolve that error
 cd libtins
 mkdir build
 cd build
