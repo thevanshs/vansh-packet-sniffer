@@ -7,8 +7,8 @@
 - cd build
 - cmake ../ (run it as sudo if you encounter permission errors)
 - make
-- sudo make install
-- sudo make tests
+- make install
+- make tests
 - sudo make test
 - Till now if everything is fine then you are all set to use this packet sniffer
 - cd example
